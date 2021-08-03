@@ -1,0 +1,3 @@
+One simple way to store data in a text file is to write the data as
+a series of values separated by commas, which is called comma-separated 
+values.
